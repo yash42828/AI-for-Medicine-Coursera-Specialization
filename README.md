@@ -11,3 +11,7 @@ There are 3 Courses in this Specialization
 - `AI for Medical Diagnosis`
 - `AI for Medical Prognosis`
 - `AI For Medical Treatment`
+
+Just follow☝️ me and Star⭐ my repository
+
+
